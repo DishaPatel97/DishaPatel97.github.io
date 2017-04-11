@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Disha Patel</title>
+
+<meta name="viewport" content="width=device-width"/>
+<meta name="description" content="The Curriculum Vitae of Disha Patel."/>
+<meta charset="UTF-8"> 
+
+<link type="text/css" rel="stylesheet" href="style.css">
+<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700|Lato:400,300' rel='stylesheet' type='text/css'>
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+<body background="r1.jpg" >
+<div id="cv" class="instaFade">
+	<div class="mainDetails">
+		<div id="headshot" class="quickFade">
+			<img src="my.jpg" alt="dp" />
+		</div>
+		
+		<div id="name">
+			<h1 class="quickFade delayTwo">Disha Patel</h1>
+			
+		
+		<div id="contactDetails" class="quickFade delayFour">
+			<ul>
+				<li>e: <a href="mailto:ahaanaarora97@gmail.com" target="_blank">ahaanaarora@gmail.com</a></li>
+				
+				<li>m:1234567890</li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div id="mainArea" class="quickFade delayFive">
+		<section>
+			<article>
+				<div class="sectionTitle">
+					<h1>Personal Profile </h1>
+				</div>
+				
+				<div class="sectionContent">
+					<p>I am currently studying computer engineering at GIT. Apart from this, I am also like reading books, travelling and solving rubix cubes .</p>
+				</div>
+			</article>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Experience</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<p class="subDetails"><h3> Present experience</h3></p>
+					<p>-Currently working as Head Associate at The Entrepreneurship Cell at Gandhinagar Institute of Technology .</p>
+					<p>-Head of CE/IT department in Techfest 2017 held at Gandhinagar Institute of Technology.</p>
+				</article>
+				
+				<article>
+					<p class="subDetails"><h3> Past experience</h3></p>
+					<p>-Worked as Cordinator in several events such as Speed cubing, Graffitti, technical events as well as non technical events.</p>
+					<p>-Had worked as a tutor for 3 years. </p>
+			     </article>
+				
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>My Skills</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<ul class="keySkills">
+					<li>Resilience</li>
+					<li>Hardworking</li>
+					<li>Dedicated</li>
+					<li>Ability to innovate</li>
+					<li>Good management skills</li>
+					<li>Eager to learn something new</li>
+					<li>Good concentration</li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Education</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h3>College</h3>
+					<p class="subDetails">Qualification</p>
+					<p>-Currently persuding 3rd year in Bachelors of Engineering at Gandhinagar Institute of Technology</p>
+				</article>
+				
+				
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+	</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3753241-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>
